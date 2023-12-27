@@ -4,3 +4,6 @@ const holis = 'holis'
 
 
 let asd = 0
+
+
+let otracosa = 9
