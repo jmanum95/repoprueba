@@ -1,0 +1,19 @@
+{
+  "name": "repoprueba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmanum95/repoprueba.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmanum95/repoprueba/issues"
+  },
+  "homepage": "https://github.com/jmanum95/repoprueba#readme"
+}
